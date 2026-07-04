@@ -72,9 +72,7 @@ Después de ejecutar los comandos, el proyecto deberá aparecer correctamente en
 
 Coloca aquí una imagen llamada:
 
-```
 captura.png
-```
 
 Ejemplo:
 
