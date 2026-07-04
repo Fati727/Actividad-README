@@ -68,17 +68,9 @@ git push origin main
 
 Después de ejecutar los comandos, el proyecto deberá aparecer correctamente en GitHub con todos los archivos actualizados.
 
-### Captura de pantalla
+## Captura de pantalla
 
-Coloca aquí una imagen llamada:
-
-captura.png
-
-Ejemplo:
-
-```markdown
 ![Resultado](captura.png)
-```
 
 ---
 
