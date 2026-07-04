@@ -77,7 +77,7 @@ captura.png
 Ejemplo:
 
 ```markdown
-![Resultado](Captura%20de%20pantalla%202026-07-03%20200002.png)
+![Resultado](captura.png)
 ```
 
 ---
